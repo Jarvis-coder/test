@@ -4,4 +4,4 @@ idna==2.8
 numpy==1.18.1
 pocketsphinx==0.1.15
 requests==2.22.0
-urllib3==1.25.8
+urllib3==1.26.5
